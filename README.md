@@ -1,7 +1,10 @@
 # Banco Djovan 
 EMPRÉSTIMO
+<p>
 O programa utiliza as informações de seu salário, o valor da casa e a quantidade de anos em que será pago.
+<p>
 Caso o usuário não deseje solicitar um empréstimo, a programação é cancelada e se despede do usuário.
+<p>
 
 EMPRESTIMO APROVADO
 Caso o empréstimo seja aprovado, o usuário recebe as informações sobre o empréstimo, como: quantidade de parcelas e o valor.
